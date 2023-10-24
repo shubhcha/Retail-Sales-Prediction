@@ -2,7 +2,6 @@
 Machine Learning : Regression Project
 
 We are provided with historical sales data for 1,115 Rossmann stores. We have to create a Machine Learning model to predict the sales.
-![261869122-4588ec03-2dde-462c-9d68-a952bc2b4021](https://github.com/shubhcha/Retail-Sales-Prediction/assets/130302074/7f3649d6-8873-434a-a930-3510c8282935)
 
 Introduction
 
@@ -14,7 +13,7 @@ This project include Exploratory data analysis, Data preprocessing, Feature Engi
 
 This dataset consist of two csv files:
 
-Rossmann.csv - Datat including sales Rossmann.csv file
+Rossmann.csv - Data including sales Rossmann.csv file
 Store.csv - Data about the store Store.csv file
 #Approach to the Project
 **1.Data Collection and Cleaning**
@@ -29,3 +28,22 @@ Using different interactive plots made needed analysis
 Univariate Analysis
 Bivariate Analysis
 Multivariate Analysis
+**3.Feature Engineering**
+
+Nullvalue Treatment
+Outlier Treatment
+Encoding
+Multicolenearity
+Feature Scaling
+Feature Selection
+5.Model Evaluation
+
+**4 Evaluation matrics are used for the evaluation of the Models.**
+
+MSE - Mean squared error
+RMSE - Root mean squared errod
+RMPSE - Root mean squared percentage error
+R2 - R squared
+**5.Conclusion**
+
+According to the Model performance and scores compared from the evaluation metrics XGBoost Regressor was found to be the best fit model. check this line
