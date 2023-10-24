@@ -16,18 +16,21 @@ This dataset consist of two csv files:
 Rossmann.csv - Data including sales Rossmann.csv file
 Store.csv - Data about the store Store.csv file
 #Approach to the Project
+
 **1.Data Collection and Cleaning**
 
 Check for duplicate values in the dataset
 Checking null values
 Examining the dataset to get basic informations
 Merging the two dataset.
+
 **2.Exploratory Data Analysis**
 
 Using different interactive plots made needed analysis
 Univariate Analysis
 Bivariate Analysis
 Multivariate Analysis
+
 **3.Feature Engineering**
 
 Nullvalue Treatment
@@ -44,6 +47,7 @@ MSE - Mean squared error
 RMSE - Root mean squared errod
 RMPSE - Root mean squared percentage error
 R2 - R squared
+
 **5.Conclusion**
 
 According to the Model performance and scores compared from the evaluation metrics XGBoost Regressor was found to be the best fit model. check this line
