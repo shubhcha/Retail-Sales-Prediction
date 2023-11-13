@@ -1,9 +1,10 @@
-1# Retail-Sales-Prediction
+**1 Retail-Sales-Prediction**
+
 Machine Learning : Regression Project
 
 We are provided with historical sales data for 1,115 Rossmann stores. We have to create a Machine Learning model to predict the sales.
 
-Introduction
+**Introduction**
 
 Rossmann operates over 3,000 drug stores in 7 European countries. Currently, Rossmann store managers are tasked with predicting their daily sales for up to six weeks in advance. Store sales are influenced by many factors, including promotions, competition, school and state holidays, seasonality, and locality. With thousands of individual managers predicting sales based on their unique circumstances, the accuracy of results can be quite varied.
 
@@ -17,7 +18,7 @@ Rossmann.csv - Data including sales Rossmann.csv file
 
 Store.csv - Data about the store Store.csv file
 
-#Approach to the Project
+**Approach to the Project**
 
 **1.Data Collection and Cleaning**
 
