@@ -1,4 +1,4 @@
-**1#Retail-Sales-Prediction**
+#**1 Retail-Sales-Prediction**
 
 Machine Learning : Regression Project
 
@@ -18,7 +18,7 @@ Rossmann.csv - Data including sales Rossmann.csv file
 
 Store.csv - Data about the store Store.csv file
 
-**Approach to the Project**
+#**Approach to the Project**
 
 **1.Data Collection and Cleaning**
 
