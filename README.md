@@ -1,4 +1,4 @@
-#**1 Retail-Sales-Prediction**
+#**Retail-Sales-Prediction**
 
 Machine Learning : Regression Project
 
